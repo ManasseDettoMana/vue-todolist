@@ -1,0 +1,22 @@
+#testo{
+    width: 300px;
+    height: 30px;
+    font-size: 1.5em;
+}
+
+button{
+    width: 70px;
+    height: 30px;
+}
+#frog{
+    font-size: 5em;
+}
+#delete{
+    font-size: 2em;
+    margin-left: 50px;
+    color: red;
+}
+
+li{
+    margin-bottom: 30px;
+}
